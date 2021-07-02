@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gunjuzone&show_icons=true&theme=dark)](https://github.com/miguelesco/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gunjuzne&show_icons=true&theme=dark)](https://github.com/miguelesco/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gunjuzone&layout=compact&theme=dark)](https://github.com/miguelesco/github-readme-stats)
 
