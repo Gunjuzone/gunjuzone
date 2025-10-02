@@ -1,18 +1,20 @@
 ### Hi there 👋
 
-Welcome to my GitHub profile! I'm currently working on simulation-based frameworks for urban material stock estimation, combining typology classification, geometric uncertainty modeling, and reproducible Monte Carlo simulations.
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gunjuzone&show_icons=true&theme=dark)](https://github.com/gunjuzone/github-readme-stats)
 
----
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gunjuzone&layout=compact&theme=dark)](https://github.com/gunjuzone/github-readme-stats)
 
-### 📊 GitHub Stats
-
-[![GitHub Stats[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gunjuzones `README.md` (this file) appears on your GitHub profile.
+<!--
+**Gunjuzone/gunjuzone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on simulation-based urban material stock estimation
-- 🌱 I’m currently learning advanced uncertainty modeling and reproducibility practices
-- 👯 I’m looking to collaborate on urban sustainability and spatial analytics
-- 💬 Ask me about Monte Carlo modeling, typology classification, or ArcGIS workflows
-- 📫 How to reach me: [your email or website]
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
 -->
